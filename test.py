@@ -1,1 +1,1 @@
-pritnt "Hello World!!"
+pritnt ("Hello World!!")
